@@ -1,6 +1,8 @@
 # PORTFOLIO DASHBOARD
  This is a dashboard portfolio project built with Chakra UI, Vite, and React.js. It provides a sleek and modern interface for showcasing your portfolio items.
 
+![dashboard](https://github.com/Shradhashukla9/portfolio-reactjs/assets/149618444/881c6907-bb4b-4301-8950-30d36f949662)
+
 ## Features
 
 - Responsive layout
